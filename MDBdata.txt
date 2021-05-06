@@ -1,0 +1,1 @@
+No MongoDB statement is required, data import is done in Node
