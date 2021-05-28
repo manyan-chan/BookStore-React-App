@@ -3,10 +3,10 @@
 ## Introduction
 The web app is built with the MERN stack.
 Versions:
-	Node: 16.0.0
-	React: 17.0.2
-	MongoDB: 4.4.5
-	Express: 4.17.1
+- Node: 16.0.0
+- React: 17.0.2
+- MongoDB: 4.4.5
+- Express: 4.17.1
 
 ## Instructions
 (1) Start the mongoDB database.
@@ -19,13 +19,19 @@ The system must have Node installed.
 Installation guide: https://nodejs.org/en/
 Default port: 5000
 
+```
 cd server
+npm install
 npm run data_import
 npm start
+```
 
 (3) Start Client
+```
 cd client
+npm install
 npm start
+```
 
 (4) To access the main page, the default url is: localhost:3000
 
