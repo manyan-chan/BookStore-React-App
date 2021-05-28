@@ -55,5 +55,5 @@ npm start
 ![register_page](https://github.com/manyan-chan/BookStore-React-App/blob/master/screenshot/register.png "register")
 ![cart_page](https://github.com/manyan-chan/BookStore-React-App/blob/master/screenshot/cart.png "cart")
 ![book_page](https://github.com/manyan-chan/BookStore-React-App/blob/master/screenshot/book.png "book")
-![delivery_page](https://github.com/manyan-chan/BookStore-React-App/blob/master/screenshot/main.png "delivery")
-![invoice_page](https://github.com/manyan-chan/BookStore-React-App/blob/master/screenshot/main.png "invoice")
+![delivery_page](https://github.com/manyan-chan/BookStore-React-App/blob/master/screenshot/delivery.png "delivery")
+![invoice_page](https://github.com/manyan-chan/BookStore-React-App/blob/master/screenshot/invoice.png "invoice")
